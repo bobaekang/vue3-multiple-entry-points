@@ -1,6 +1,6 @@
 # Multiple entry points setup for Vue 3
 
-> This repository is a sequal to [`bobaekang/vue-multiple-entry-points`](https://github.com/bobaekang/vue-multiple-entry-points) repository for Vue 3.
+> This repository is a sequel to [`bobaekang/vue-multiple-entry-points`](https://github.com/bobaekang/vue-multiple-entry-points) repository for Vue 3.
 
 Showcasing a simple multiple entry points setup for Vue 3 + [Vite](https://github.com/vitejs/vite) application. 🖖
 
